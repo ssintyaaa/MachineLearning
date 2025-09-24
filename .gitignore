@@ -1,0 +1,17 @@
+# Abaikan virtual environment
+my_env/
+venv/
+
+# Abaikan file Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Abaikan konfigurasi IDE/editor
+.vscode/
+.idea/
+
+# Abaikan file OS
+.DS_Store
+Thumbs.db
